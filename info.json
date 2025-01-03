@@ -1,0 +1,18 @@
+{
+  "translations": [
+    {
+      "key": "zh_cn",
+      "country_code": "zh",
+      "path": "/zhcn_translate.translation",
+      "name": "Chinese (Simplified) translation, based on Github Copilot.",
+      "contributors": [
+        {
+          "name": "CKylinMC, using Github Copilot",
+          "email": "me@ckyl.me"
+        }
+      ]
+    }
+  ],
+  "name": "CKylinMC's TeaSpeak Translation",
+  "contact": "me@ckyl.me"
+}
